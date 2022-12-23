@@ -1,0 +1,18 @@
+.card-img-top {
+    height: 300px;
+    width: 100%;
+    border: 1px solid darkgrey;
+}
+
+.text {
+    text-align: center;
+    border: 1px solid darkgray;
+}
+
+.thumbnail {
+    width: 300px;
+}
+
+.card-img-top:hover {
+    border-color: black;
+}
